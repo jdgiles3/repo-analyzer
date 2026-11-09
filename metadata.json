@@ -1,0 +1,6 @@
+{
+  "name": "Codebase Pipeline Analyzer",
+  "description": "Rigorous zip project codebase analyzer running a pipeline of AI agents to map architecture, capabilities, run commands, and shipped vs to-do gaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
